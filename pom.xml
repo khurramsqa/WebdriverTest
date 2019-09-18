@@ -33,7 +33,7 @@
 					<target>1.8</target>
 				</configuration>
 			</plugin>
-			
+			<!--demo> test line on git hub </demo -->
 			<!--  plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-surefire-plugin</artifactId>
